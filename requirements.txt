@@ -1,0 +1,10 @@
+# Python Packages
+Flask
+requests
+pandas
+numpy
+grpcio
+flask_sqlalchemy
+#psycopg2
+kafka-python
+pyspark
